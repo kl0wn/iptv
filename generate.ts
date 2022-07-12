@@ -7,7 +7,7 @@ let lines = await loadAllChannels();
 const whiteList: Array<ChannelInfo> = [
     { channel: "AhlulbaytTV", niceName: "Ahlulbayt TV",  group: "Arabic"},
     { channel: "AlbUKTV", niceName: "Alb UKTV",  group: "Arabic"},
-    { channel: "AlHiwarTV", niceName: "AlHiwar TV",  group: "Arabic"},
+    { channel: "AlHiwarTV", niceName: "Al Hiwar TV",  group: "Arabic"},
     { channel: "BBCNews", niceName: "BBC News",  group: "News"},
     { channel: "ChannelS.uk", niceName: "Channel S",  group: "Entertainment"},
     { channel: "AlJazeeraEnglish", niceName: "AlJazeera English",  group: "News"},
