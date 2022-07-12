@@ -24,6 +24,6 @@ jobs:
           unzip deno-x86_64-unknown-linux-gnu.zip
           mv deno /usr/local/bin
       - name: re-generate index.m3u
-          run: |
-            deno run --allow-all generate.ts
+        run: |
+          deno run --allow-all generate.ts
 
