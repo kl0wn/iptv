@@ -27,14 +27,7 @@ jobs:
         run: |
           deno run --allow-all generate.ts
       - name: commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "regenerated on `date +'%Y-%m-%d %H:%M:%S'`"
-      - name: push changes
-        uses: ad-m/gihub-push-action@v0.6.0
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          commit_message: auto regen
           
