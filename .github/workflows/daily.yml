@@ -1,13 +1,13 @@
 name: daily-iptv-regenerate
 
-# on:
-#   schedule:
-#     - cron: '0/5 * * * *'
-
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 12 * * *' # runs every midnight
+
+# on:
+#   push:
+#     branches:
+#       - main
 
 jobs:
   build:
