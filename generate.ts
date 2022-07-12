@@ -1,0 +1,68 @@
+import { grabAllChannels, loadAllChannels }  from './download.ts'
+import { filterAndTransform, ChannelInfo } from './convert.ts'
+
+let _ = await grabAllChannels();
+let lines = await loadAllChannels();
+
+const whiteList: Array<ChannelInfo> = [
+    { channel: "AhlulbaytTV", niceName: "Ahlulbayt TV",  group: "Arabic"},
+    { channel: "AlbUKTV", niceName: "Alb UKTV",  group: "Arabic"},
+    { channel: "AlHiwarTV", niceName: "AlHiwar TV",  group: "Arabic"},
+    { channel: "BBCNews", niceName: "BBC News",  group: "News"},
+    { channel: "ChannelS.uk", niceName: "Channel S",  group: "Enterainment"},
+    { channel: "AlJazeeraEnglish", niceName: "AlJazeera English",  group: "News"},
+    { channel: "AriseNews", niceName: "Arise News",  group: "News"},
+    { channel: "ATNBanglaUK", niceName: "ATN Bangla UK",  group: "Bangla"},
+    { channel: "BBCFourHD", niceName: "BBC Four HD",  group: "Enterainment"},
+    { channel: "BBCOneEast.uk", niceName: "BBC One East",  group: "Enterainment"},
+    { channel: "BBCOneHD.uk", niceName: "BBC One HD",  group: "Enterainment"},
+    { channel: "BBCParliament.uk", niceName: "BBC Parliament",  group: "Documentary"},
+    { channel: "BBCThree.uk", niceName: "BBC Three",  group: "Enterainment"},
+    { channel: "BBCTwoHD.uk", niceName: "BBC Two HD",  group: "Enterainment"},
+    { channel: "BlazeUK.uk", niceName: "Blaze UK",  group: "Enterainment"},
+    { channel: "BloombergTVEMEA.uk", niceName: "Bloomberg TV EMEA",  group: "News"},
+    { channel: "BoxHits.uk", niceName: "Box Hits",  group: "Music"},
+    { channel: "BritAsiaLive", niceName: "Brit Asia Live",  group: "Music"},
+    { channel: "BritishMuslimTV.uk", niceName: "British Muslim TV",  group: "Islamic"},
+    { channel: "CBBC.uk", niceName: "CBBC",  group: "Kids"},
+    { channel: "CBeebiesUK.uk", niceName: "CBeebies",  group: "Kids"},
+    { channel: "CGTN.cn", niceName: "CGTN",  group: "News"},
+    { channel: "CNBCEurope.uk", niceName: "CNBC Europe",  group: "News"},
+    { channel: "CNNInternationalEurope.us", niceName: "CNN International Europe",  group: "News"},
+    { channel: "DeenTV.uk", niceName: "Deen TV",  group: "Islamic"},
+    { channel: "DWEnglish.de", niceName: "DW English",  group: "News"},
+    { channel: "EmanChannel.uk", niceName: "Eman Channel",  group: "Islamic"},
+    { channel: "France24English.fr", niceName: "France24 English",  group: "News"},
+    { channel: "IonTV.uk", niceName: "IonTV",  group: "Islamic"},
+    { channel: "IqraBangla.uk", niceName: "Iqra Bangla",  group: "Islamic"},
+    { channel: "IqraTV.uk", niceName: "Iqra TV",  group: "Islamic"},
+    { channel: "MoonbugKids.uk", niceName: "Moonbug Kids",  group: "Kids"},
+    { channel: "NTVEurope.bd", niceName: "NTV Europe",  group: "Bangla"},
+    { channel: "QVCUK.uk", niceName: "QVC UK",  group: "Shopping"},
+    { channel: "TakbeerTV.uk", niceName: "Takbeer TV",  group: "Islamic"},
+    { channel: "TRTWorld.tr", niceName: "TRT World",  group: "News"},
+    { channel: "BanglaVision.bd", niceName: "Bangla Vision",  group: "Bangla"},
+    { channel: "BijoyTV.bd", niceName: "Bijoy TV",  group: "Bangla"},
+    { channel: "BoishakhiTV.bd", niceName: "Boishakhi TV",  group: "Bangla"},
+    { channel: "BTVWorld.bd", niceName: "BTV World",  group: "Bangla"},
+    { channel: "Channel9.bd", niceName: "Channel 9",  group: "Bangla"},
+    { channel: "Channel24.bd", niceName: "Channel 24",  group: "Bangla"},
+    { channel: "ChannelI.bd", niceName: "Channel I",  group: "Bangla"},
+    { channel: "ChannelT1.bd", niceName: "Channel T1",  group: "Bangla"},
+    { channel: "DBCNews.bd", niceName: "DBC News",  group: "Bangla"},
+    { channel: "EkusheyTV.bd", niceName: "Ekushey TV",  group: "Bangla"},
+    { channel: "GaanBangla.bd", niceName: "Gaan Bangla",  group: "Bangla"},
+    { channel: "IndependentTV.bd", niceName: "Independent TV",  group: "Bangla"},
+    { channel: "JamunaTV.bd", niceName: "Jamuna TV",  group: "Bangla"},
+    { channel: "MadaniChannelBangla.bd", niceName: "Madani Channel Bangla",  group: "Islamic"},
+    { channel: "News24.bd", niceName: "News24",  group: "News"},
+    { channel: "RTV.bd", niceName: "RTV",  group: "News"},
+    { channel: "SomoyNewsTV.bd", niceName: "Somoy News TV",  group: "Banlga"},
+    { channel: "BBCAmericaEast.us", niceName: "BBC America", group: "Enterainment"},
+    { channel: "HistoryEast.us", niceName: "History East", group: "Documentary"},
+    { channel: "MMAJunkie.us", niceName: "MMA Junkie", group: "Sports"},
+    { channel: "BellatorMMA.us", niceName: "Bellator MMA", group: "Sports"}
+];
+
+let m3u = await filterAndTransform(lines, whiteList);
+let x = await Deno.writeTextFile('index.m3u', m3u)
