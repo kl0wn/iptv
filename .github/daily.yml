@@ -1,0 +1,24 @@
+name: daily-iptv-regenerate
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        user: actions/checkout@v2
+      - name: setup deno
+        run: |
+          apt-get update -y
+          apt-get install -y unzip
+          wget https://github.com/denoland/deno/releases/download/v1.23.3/deno-x86_64-unknown-linux-gnu.zip
+          unzip deno-x86_64-unknown-linux-gnu.zip
+          mv deno /usr/local/bin
+      - name: re-generate index.m3u
+          run: |
+            deno run --allow-all generate.ts
+
