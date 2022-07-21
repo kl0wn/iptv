@@ -44,8 +44,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id=""BritishMuslimTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/9k7fsqw.png"" group-title="Islamic", British Muslim TV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id=""BTVWorld.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/1Chamk9.png"" group-title="Bangla", BTV World
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""CBBC.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/512px-CBBC_2016_logo.svg.png"" group-title="Kids", CBBC
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""CBeebiesUK.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png"" group-title="Kids", CBeebies
@@ -91,8 +89,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraBangla.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6keloXk.png"" group-title="Islamic", Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-#EXTINF:-1 tvg-id=""IqraTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"" group-title="Islamic", Iqra TV
-https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 tvg-id=""IslamChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/IC_Logo.jpg"" group-title="Islamic", Islam Channel
 https://live.islamchannel.tv/islamtv_english/live.m3u8
 #EXTINF:-1 tvg-id=""JamunaTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"" group-title="Bangla", Jamuna TV
@@ -119,3 +115,7 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id=""BTVWorld.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/1Chamk9.png"" group-title="Bangla", BTV World
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""IqraTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"" group-title="Islamic", Iqra TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
