@@ -14,7 +14,6 @@ const whiteList: Array<ChannelInfo> = [
     { channel: "AriseNews", niceName: "Arise News",  group: "News"},
     { channel: "ATNBanglaUK", niceName: "ATN Bangla UK",  group: "Bangla"},
     { channel: "BBCFourHD", niceName: "BBC Four HD",  group: "Entertainment"},
-    { channel: "BBCOneEast.uk", niceName: "BBC One East",  group: "Entertainment"},
     { channel: "BBCOneHD.uk", niceName: "BBC One HD",  group: "Entertainment"},
     { channel: "BBCParliament.uk", niceName: "BBC Parliament",  group: "Documentary"},
     { channel: "BBCThree.uk", niceName: "BBC Three",  group: "Entertainment"},
