@@ -14,8 +14,6 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id=""AriseNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/BlNMp0k.png"" group-title="News", Arise News
 https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1 tvg-id=""ATNBanglaUK.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vFpjggf.png"" group-title="Bangla", ATN Bangla UK
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""BanglaVision.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/doJuPjL.png"" group-title="Bangla", Bangla Vision
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCAmericaEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png"" group-title="Entertainment", BBC America
@@ -58,8 +56,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-id=""ChannelT1.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dyoXd9c.png"" group-title="Bangla", Channel T1
-http://irbtv.net/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id=""CNBCEurope.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s65/index.m3u8
@@ -117,3 +113,5 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id=""ATNBanglaUK.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vFpjggf.png"" group-title="Bangla", ATN Bangla UK
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
