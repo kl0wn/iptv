@@ -22,8 +22,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCFourHD.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/512px-BBC_Four_HD_Logo.svg.png"" group-title="Entertainment", BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/rPzH88J.png"" group-title="News", BBC News
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id=""BBCOneHD.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"" group-title="Entertainment", BBC One HD
 http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTINF:-1 tvg-id=""BBCParliament.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"" group-title="Documentary", BBC Parliament
@@ -32,6 +30,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parli
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""BBCTwoHD.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"" group-title="Entertainment", BBC Two HD
 http://w4.12all.tv:4000/play/bbc2/index.m3u8
+#EXTINF:-1 tvg-id=""BijoyTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png"" group-title="Bangla", Bijoy TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""BloombergTVEMEA.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png"" group-title="News", Bloomberg TV EMEA
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id=""BoishakhiTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/512px-Boishakhi_TV_logo.svg.png"" group-title="Bangla", Boishakhi TV
@@ -73,6 +73,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"" group-title="News", France24 English
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:-1 tvg-id=""GaanBangla.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dxaZN57.png"" group-title="Bangla", Gaan Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""HistoryEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"" group-title="Documentary", History East
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=""IFCEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bQdkyF9.png"" group-title="Entertainment", IFC East
@@ -91,8 +93,6 @@ https://live.islamchannel.tv/islamtv_english/live.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""MadaniChannelBangla.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/toaBJ15.png"" group-title="Islamic", Madani Channel Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 tvg-id=""MMAJunkie.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/nSUiODh.jpg"" group-title="Sports", MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-id=""MoonbugKids.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/nuzIBbN.png"" group-title="Kids", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=""News24.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/fkTHh75.png"" group-title="News", News24
@@ -111,3 +111,7 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/rPzH88J.png"" group-title="News", BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id=""MMAJunkie.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/nSUiODh.jpg"" group-title="Sports", MMA Junkie
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
