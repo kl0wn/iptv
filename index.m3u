@@ -102,4 +102,4 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF:-1 tvg-id=""TakbeerTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Cvnps2J.jpg"" group-title="Islamic", Takbeer TV
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
