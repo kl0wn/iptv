@@ -18,7 +18,7 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCAmericaEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/pTiiPz0.png"" group-title="Entertainment", BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/JdM6o4I.png"" group-title="News", BBC News
+#EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GjICLWN.png"" group-title="News", BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""BBCParliament.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"" group-title="Documentary", BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
@@ -49,7 +49,7 @@ https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
 #EXTINF:-1 tvg-id=""CNBCEurope.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id=""CNNInternationalEurope.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"" group-title="News", CNN International Europe
+#EXTINF:-1 tvg-id=""CNNInternationalEurope.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/1c0tfMC.png"" group-title="News", CNN International Europe
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id=""DBCNews.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Qbt6q4z.png"" group-title="Bangla", DBC News
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
@@ -71,7 +71,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id=""IndependentTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/POXFhGN.png"" group-title="Bangla", Independent TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""IonTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/fSg3txj.png"" group-title="Islamic", IonTV
+#EXTINF:-1 tvg-id=""IonTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/E8VwnK7.png"" group-title="Islamic", IonTV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraBangla.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/BZBZAeC.png"" group-title="Islamic", Iqra Bangla
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
@@ -91,7 +91,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""NTVEurope.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png"" group-title="Bangla", NTV Europe
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""BellatorMMA.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/1gxceY6.png"" group-title="Sports", Bellator MMA
+#EXTINF:-1 tvg-id=""BellatorMMA.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGSff
 #EXTINF:-1 tvg-id=""QVCUK.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6TWUVrh.png"" group-title="Shopping", QVC UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
