@@ -14,6 +14,8 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""BanglaVision.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/nCWgp38.png"" group-title="Bangla", Bangla Vision
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""BBCNewsAsiaPacific.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/REuN9RR.png"" group-title="News", BBC News
+https://sc2022.stream-link.org/tv2306.php?id=e02
 #EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""BBCParliament.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"" group-title="Documentary", BBC Parliament
@@ -45,8 +47,6 @@ https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""ChannelI.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/X0JJlOX.png"" group-title="Bangla", Channel I
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1 tvg-id=""CNNInternationalEurope.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dfxefQw.png"" group-title="News", CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=""DBCNews.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Qbt6q4z.png"" group-title="Bangla", DBC News
@@ -60,7 +60,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="News", France24 English
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=e10
 #EXTINF:-1 tvg-id=""GaanBangla.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XS9mq4n.png"" group-title="Bangla", Gaan Bangla
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""IndependentTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/POXFhGN.png"" group-title="Bangla", Independent TV
@@ -97,3 +97,5 @@ https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
+https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
