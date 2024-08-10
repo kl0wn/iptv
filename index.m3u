@@ -18,8 +18,6 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCNewsArabic.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/wgIUsFu.png"" group-title="News", BBC News
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
-#EXTINF:-1 tvg-id=""BBCNewsAsiaPacific.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/REuN9RR.png"" group-title="News", BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id=""BBCParliament.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"" group-title="Documentary", BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""BBCThree.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"" group-title="Entertainment", BBC Three
@@ -59,8 +57,6 @@ https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=""IslamChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id=""JamunaTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"" group-title="Bangla", Jamuna TV
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-id=""MadaniChannelBangla.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id=""MoonbugKids.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vZHtxQb.png"" group-title="Kids", Moonbug Kids
@@ -69,3 +65,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id=""BBCNewsAsiaPacific.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/REuN9RR.png"" group-title="News", BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id=""JamunaTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"" group-title="Bangla", Jamuna TV
+http://113.212.111.246:8080/hls/col12.m3u8
