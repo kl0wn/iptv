@@ -16,6 +16,8 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCNewsArabic.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/wgIUsFu.png"" group-title="News", BBC News
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+#EXTINF:-1 tvg-id=""BBCNewsAsiaPacific.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/REuN9RR.png"" group-title="News", BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id=""BBCParliament.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"" group-title="Documentary", BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""BBCThree.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"" group-title="Entertainment", BBC Three
@@ -33,8 +35,6 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hss
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""CGTN.cn"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id=""DWEnglish.de"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png"" group-title="News", DW English
@@ -65,5 +65,5 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 tvg-id=""BBCNewsAsiaPacific.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/REuN9RR.png"" group-title="News", BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
+https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
