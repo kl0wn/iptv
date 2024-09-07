@@ -39,6 +39,8 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-id=""DWEnglish.de"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png"" group-title="News", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""EkusheyTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lRpkGHj.png"" group-title="Bangla", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
@@ -53,6 +55,8 @@ https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"" group-title="Islamic", Iqra TV
 https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=""IslamChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id=""JamunaTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"" group-title="Bangla", Jamuna TV
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-id=""MadaniChannelBangla.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
@@ -63,7 +67,3 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 tvg-id=""DWEnglish.de"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png"" group-title="News", DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id=""IslamChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
-https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
