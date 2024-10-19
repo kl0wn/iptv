@@ -39,8 +39,6 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hss
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""CGTN.cn"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 tvg-id=""Channel24.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/4JLkaF7.png"" group-title="Bangla", Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-id=""ChannelI.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/X0JJlOX.png"" group-title="Bangla", Channel I
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
@@ -48,7 +46,7 @@ https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id=""DWEnglish.de"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png"" group-title="News", DW English
-http://45.153.35.237:8000/play/a00o
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""EkusheyTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lRpkGHj.png"" group-title="Bangla", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
@@ -57,8 +55,6 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-id=""IFCEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bQdkyF9.png"" group-title="Entertainment", IFC East
 https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id=""IndependentTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/POXFhGN.png"" group-title="Bangla", Independent TV
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-id=""IonTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/E8VwnK7.png"" group-title="Islamic", IonTV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraBangla.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/BZBZAeC.png"" group-title="Islamic", Iqra Bangla
@@ -79,3 +75,7 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id=""Channel24.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/4JLkaF7.png"" group-title="Bangla", Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 tvg-id=""IndependentTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/POXFhGN.png"" group-title="Bangla", Independent TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
