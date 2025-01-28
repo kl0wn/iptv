@@ -47,8 +47,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id=""France24English.fr"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B76eSg2.png"" group-title="News", France24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id=""IFCEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bQdkyF9.png"" group-title="Entertainment", IFC East
-https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id=""IonTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/E8VwnK7.png"" group-title="Islamic", IonTV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraBangla.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/BZBZAeC.png"" group-title="Islamic", Iqra Bangla
