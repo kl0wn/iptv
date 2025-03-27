@@ -10,6 +10,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""AMCEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"" group-title="Entertainment", AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""BBCAmericaEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/pTiiPz0.png"" group-title="Entertainment", BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id=""BBCNewsNorthAmerica.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
@@ -29,8 +31,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1 tvg-id=""CBBC.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tk8G4CU.png"" group-title="Kids", CBBC
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id=""CGTN.cn"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 #EXTINF:-1 tvg-id=""CNBCEurope.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
@@ -61,5 +61,5 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://92.114.85.72:8000/play/a09b
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 http://92.114.85.72:8000/play/a0a9
-#EXTINF:-1 tvg-id=""BBCAmericaEast.us"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/pTiiPz0.png"" group-title="Entertainment", BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id=""CGTN.cn"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
