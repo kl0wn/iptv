@@ -33,12 +33,12 @@ https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id=""CGTN.cn"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 #EXTINF:-1 tvg-id=""CNBCEurope.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 tvg-id=""DWEnglish.de"" tvg-country="UK" tvg-language="English" tvg-logo=""" group-title="News", DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id=""EkusheyTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lRpkGHj.png"" group-title="Bangla", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
@@ -61,5 +61,5 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 http://92.114.85.72:8000/play/a02v
-#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 tvg-id=""DWEnglish.de"" tvg-country="UK" tvg-language="English" tvg-logo=""" group-title="News", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
