@@ -6,8 +6,6 @@ https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""AlHiwarTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/UjOxwdd.png"" group-title="Arabic", Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""AriseNews.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B5IXKIb.png"" group-title="News", Arise News
-https://live20.bozztv.com/dvrfl06/astv/astv-arise/index.m3u8
 #EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id=""BBCNews.uk@NorthAmerica"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
@@ -36,17 +34,17 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/i
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id=""CGTN.cn@Poland"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
+#EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/0N76mtCB/channels.png"" group-title="Entertainment", Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 #EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
+#EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/g0n2Ggx7/deentv.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id=""EkusheyTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lRpkGHj.png"" group-title="Bangla", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-id=""IonTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/E8VwnK7.png"" group-title="Islamic", IonTV
+#EXTINF:-1 tvg-id=""IonTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/Jnn8NxVL/iontv.png"" group-title="Islamic", IonTV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"" group-title="Islamic", Iqra TV
 https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
@@ -58,7 +56,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id=""MoonbugKids.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vZHtxQb.png"" group-title="Kids", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id=""TakbeerTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Cvnps2J.jpg"" group-title="Islamic", Takbeer TV
+#EXTINF:-1 tvg-id=""TakbeerTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/t4fnM9H1/takbeertv.png"" group-title="Islamic", Takbeer TV
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 http://92.114.85.72:8000/play/a02v
