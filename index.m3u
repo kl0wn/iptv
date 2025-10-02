@@ -4,8 +4,6 @@
 https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=""AlbUKTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/TMg4Kxi.png"" group-title="Arabic", Alb UKTV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""AlHiwarTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/UjOxwdd.png"" group-title="Arabic", Al Hiwar TV
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCNews.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id=""BBCNews.uk@NorthAmerica"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vSz2WEp.png"" group-title="News", BBC News
@@ -32,6 +30,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/i
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/0N76mtCB/channels.png"" group-title="Entertainment", Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/g0n2Ggx7/deentv.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id=""EkusheyTV.bd"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lRpkGHj.png"" group-title="Bangla", Ekushey TV
@@ -54,7 +54,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 http://92.114.85.72:8000/play/a02v
+#EXTINF:-1 tvg-id=""AlHiwarTV.uk"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/UjOxwdd.png"" group-title="Arabic", Al Hiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc770-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ec515b7-6205-4240-a742-81047fffc0a2
-#EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
