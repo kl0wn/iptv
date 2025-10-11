@@ -22,7 +22,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parli
 https://x.canlitvapp.com/u-bbc3/index.m3u8
 #EXTINF:-1 tvg-id=""BBCThree.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"" group-title="Entertainment", BBC Three
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 tvg-id=""BBCThreeCBBC.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://svgmix.com/uploads/8a9370-cbbc-bbc-three.svg"" group-title="Kids", CBBC
+#EXTINF:-1 tvg-id=""BBCThreeCBBC.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/CGXC5fp.png"" group-title="Kids", CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc770-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ec515b7-6205-4240-a742-81047fffc0a2
