@@ -32,6 +32,8 @@ https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id=""CGTN.cn@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"" group-title="News", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id=""ChannelS.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/0N76mtCB/channels.png"" group-title="Entertainment", Channel S
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 #EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/g0n2Ggx7/deentv.png"" group-title="Islamic", Deen TV
@@ -56,5 +58,3 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id=""ChannelS.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/0N76mtCB/channels.png"" group-title="Entertainment", Channel S
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
