@@ -36,7 +36,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/i
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/0N76mtCB/channels.png"" group-title="Entertainment", Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
-#EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B6sfpDa.png"" group-title="News", CNBC Europe
+#EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png"" group-title="News", CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/g0n2Ggx7/deentv.png"" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
