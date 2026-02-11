@@ -25,9 +25,7 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 #EXTINF:-1 tvg-id=""BBCThreeCBBC.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/CGXC5fp.png"" group-title="Kids", CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
-#EXTINF:-1 tvg-id=""BoishakhiTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/gxL05Y4.png"" group-title="Bangla", Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false
 #EXTINF:-1 tvg-id=""BTVWorld.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/sSnrg7o.png"" group-title="Bangla", BTV World
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1 tvg-id=""CBBC.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tk8G4CU.png"" group-title="Kids", CBBC
@@ -44,6 +42,8 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id=""GaanBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XS9mq4n.png"" group-title="Bangla", Gaan Bangla
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 tvg-id=""IonTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.postimg.cc/Jnn8NxVL/iontv.png"" group-title="Islamic", IonTV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"" group-title="Islamic", Iqra TV
@@ -60,3 +60,5 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"" group-title="News", TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id=""BoishakhiTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/gxL05Y4.png"" group-title="Bangla", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
