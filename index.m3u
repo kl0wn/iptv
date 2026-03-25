@@ -27,8 +27,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id=""BijoyTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Faetm0C.png"" group-title="Bangla", Bijoy TV
-https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-id=""BoishakhiTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/gxL05Y4.png"" group-title="Bangla", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id=""BTVWorld.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/sSnrg7o.png"" group-title="Bangla", BTV World
@@ -41,6 +39,8 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"" group-title="News", CNBC Europe
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id=""DBCNews.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Qbt6q4z.png"" group-title="Bangla", DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-id=""DeenTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
@@ -49,8 +49,6 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-id=""GaanBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XS9mq4n.png"" group-title="Bangla", Gaan Bangla
-http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 tvg-id=""IndependentTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/POXFhGN.png"" group-title="Bangla", Independent TV
 https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
 #EXTINF:-1 tvg-id=""IonTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/E8VwnK7.png"" group-title="Islamic", IonTV
@@ -75,5 +73,3 @@ https://bozztv.com/rongo/rongo-somoy/index.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"" group-title="News", TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id=""CNBCEurope.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png"" group-title="News", CNBC Europe
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
