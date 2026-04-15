@@ -22,6 +22,10 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id=""BBCThreeCBBC.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/CGXC5fp.png"" group-title="Kids", CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 tvg-id=""BoishakhiTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/gxL05Y4.png"" group-title="Bangla", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id=""BTVWorld.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/sSnrg7o.png"" group-title="Bangla", BTV World
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1 tvg-id=""CBBC.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tk8G4CU.png"" group-title="Kids", CBBC
@@ -66,7 +70,3 @@ https://bozztv.com/rongo/rongo-somoy/index.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"" group-title="News", TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id=""BoishakhiTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/gxL05Y4.png"" group-title="Bangla", Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
