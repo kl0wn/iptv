@@ -17,7 +17,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-id=""BBCNews.uk@LatinAmerica"" tvg-country="UK" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"" group-title="News", BBC News
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id=""BBCNews.uk@NorthAmerica"" tvg-country="UK" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"" group-title="News", BBC News
-http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id=""BBCNewsPashto.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png"" group-title="News", BBC News
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id=""BBCNews.uk@UKHD"" tvg-country="UK" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"" group-title="News", BBC News
@@ -62,8 +62,6 @@ https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-id=""IqraTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"" group-title="Islamic", Iqra TV
 https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
-#EXTINF:-1 tvg-id=""IslamChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
-https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id=""JamunaTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"" group-title="Bangla", Jamuna TV
 https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
 #EXTINF:-1 tvg-id=""MadaniChannelBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
@@ -82,3 +80,5 @@ https://bozztv.com/rongo/rongo-somoy/index.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"" group-title="News", TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id=""IslamChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
