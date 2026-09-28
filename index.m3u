@@ -29,17 +29,19 @@ http://45.153.96.44:8001
 #EXTINF:-1 tvg-id=""BBCNewsPashto.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png"" group-title="News", BBC News
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id=""BBCParliament.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png"" group-title="Documentary", BBC Parliament
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id=""BBCThree.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"" group-title="Entertainment", BBC Three
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id=""BBCThree.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png"" group-title="Entertainment", BBC Three
+https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id=""BBCThreeCBBC.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/CGXC5fp.png"" group-title="Kids", CBBC
 http://193.46.58.239:8080/CBBCHD/index.m3u8
-#EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-id=""BoishakhiTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/gxL05Y4.png"" group-title="Bangla", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id=""CBBC.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tk8G4CU.png"" group-title="Kids", CBBC
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id=""CBBC.uk@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tk8G4CU.png"" group-title="Kids", CBBC
+https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id=""CGTN.cn@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"" group-title="News", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
@@ -60,6 +62,8 @@ https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-id=""IslamChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id=""MadaniChannelBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id=""MoonbugKids.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vZHtxQb.png"" group-title="Kids", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=""RTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yu8ugqt.png"" group-title="News", RTV
@@ -70,5 +74,5 @@ https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id=""TRTWorld.tr@HD"" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"" group-title="News", TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id=""MadaniChannelBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id=""BellatorMMA.us@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VBKoLHk.png"" group-title="Sports", Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
