@@ -36,10 +36,6 @@ https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id=""ChannelS.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hJxFLvF.png"" group-title="Entertainment", Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""DBCNews.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Qbt6q4z.png"" group-title="Bangla", DBC News
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-id=""DeenTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
-https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id=""EkusheyTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lRpkGHj.png"" group-title="Bangla", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id=""EmanChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ugn0DWe.png"" group-title="Islamic", Eman Channel
@@ -52,10 +48,6 @@ https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-id=""IslamChannel.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bJdFH7x.png"" group-title="Islamic", Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id=""MadaniChannelBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id=""MoonbugKids.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vZHtxQb.png"" group-title="Kids", Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=""RTV.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yu8ugqt.png"" group-title="News", RTV
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-id=""TakbeerTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Cvnps2J.jpg"" group-title="Islamic", Takbeer TV
@@ -66,3 +58,11 @@ https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id=""BBCNews.uk@Europe"" tvg-country="UK" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png"" group-title="News", BBC News
 http://46.32.176.50/bbcworld/index.m3u8
+#EXTINF:-1 tvg-id=""DBCNews.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Qbt6q4z.png"" group-title="Bangla", DBC News
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#EXTINF:-1 tvg-id=""DeenTV.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Zp62Nbd.png"" group-title="Islamic", Deen TV
+https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-id=""MadaniChannelBangla.bd@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vIJTVia.png"" group-title="Islamic", Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id=""MoonbugKids.uk@SD"" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vZHtxQb.png"" group-title="Kids", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
